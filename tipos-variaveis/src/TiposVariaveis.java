@@ -6,6 +6,6 @@ public class TiposVariaveis {
         short numeroCurto2 = (short) numeroNormal;
         int numero = 1;
         numero = 2;
-        final double VALOR_PI = 3.14;
+        final double VALOR_PI = 3.1415;
     }
 }
